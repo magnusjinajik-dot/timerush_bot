@@ -1,5 +1,0 @@
-aiogram==3.4.1
-apscheduler
-fastapi
-uvicorn
-python-multipart
